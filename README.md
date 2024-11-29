@@ -1,4 +1,4 @@
-<img width="128" src="BREAD.png" align="right">
+<img width="256" src="BREAD.png" align="right">
 
 # Bread
 by tobyxdd, modified by ltGuillaume: [Codeberg](https://codeberg.org/ltGuillaume) | [GitHub](https://github.com/ltGuillaume) | [Buy me a beer](https://buymeacoff.ee/ltGuillaume) 🍺
